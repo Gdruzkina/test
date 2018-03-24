@@ -100,12 +100,14 @@ ENV/
 # mypy
 .mypy_cache/
 
+
 .idea_5/
-<<<<<<< HEAD
+
 temp/
-=======
+
+
 test_edit files/
->>>>>>> e7cc10166210a30ad787c70eafddc46a491eef25
+
 
 
 .sldjfsljdflsjk/
